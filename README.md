@@ -23,11 +23,11 @@ Example:
 
 Arguments:  
 
-	--data DATA      Data  
-	--maxlen MAXLEN  Max Length  
-	--bs BS          Batch Size  
-	--lr LR          Learning Rate  
-	--epoch EPOCH    Epochs  
+	--data			Data  
+	--maxlen		Max Length  
+	--bs			Batch Size  
+	--lr			Learning Rate  
+	--epoch			Epochs  
   
 	
 	
