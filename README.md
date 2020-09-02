@@ -1,8 +1,8 @@
 # Keyword-Extraction-for-Pathology-Reports-with-BERT
 This is Keyword extraction for pathology report based on the pre-trained BERT.  
-We refered [BERT] (Devlin, et al.).
+Please visit the original repo of [BERT] (Devlin, et al.) for more information about the pre-trained BERT.
 
-## For NOT programmer users 
+## For NOT programmer users
 [KEP] is a web-based **keyword** **extraction** **tool** for pathology report.  
 Users who are not familiar with python can use this tool.  
   
