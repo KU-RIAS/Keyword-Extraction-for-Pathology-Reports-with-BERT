@@ -1,24 +1,25 @@
 # Keyword-Extraction-for-Pathology-Reports-with-BERT
-This is Keyword extraction for pathology report based on BERT.
-The original repo of BERT (Devlin, et al.) is [BERT]
+This is Keyword extraction for pathology report based on BERT.  
+The original repo of [BERT] (Devlin, et al.).
 
-## For NOT programmer users.
-Please visit: [KEP]
-The URL is web-based keyword extraction for pathology report.
+## For NOT programmer users 
+[KEP] is a web-based **keyword **extraction **tool for pathology report.  
+Users who are not familiar with python can utilize our tool.
+  
 ![screensh](./img/website.jpg)
 
 
 ## Environments
-Requirements:
+Requirements:  
 	python 3.6
 	pytorch 1.2.0
 	pytorch-pretrained-bert 0.6.2
 
 ## Usage
-Example:
+Example:  
 	python Keyword_Extraction_BERT.py --data sample.csv
 
-	arguments:
+Arguments:  
 	--data DATA      Data
 	--maxlen MAXLEN  Max Length
 	--bs BS          Batch Size
