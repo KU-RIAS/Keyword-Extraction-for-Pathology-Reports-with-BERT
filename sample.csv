@@ -1,0 +1,266 @@
+Reports,Specimen1,Procedure1,Pathology1,Specimen2,Procedure2,Pathology2,Specimen3,Procedure3,Pathology3,Specimen4,Procedure4,Pathology4,Specimen5,Procedure5,Pathology5
+"Stomach, antrum, greater curvature. posterior wall(#1), endoscopic biopsy;
+  Chronic gastritis with
+    1. incomplete intestinal metaplasia
+    2. lymphoid aggregate
+
+Stomach, antrum, lesser curvature(#2), endoscopic biopsy;
+  Chronic gastritis with
+    1. no H. pylori
+    2. incomplete intestinal metaplasia
+
+Stomach, body, greater curvature(#3), endoscopic biopsy;
+  Chronic gastritis with
+    1. no H. pylori
+    2. incomplete intestinal metaplasia
+
+
+Note) T.G stain for H. pylori: Negative (#2 and #3)","Stomach, antrum",endoscopic biopsy,Chronic gastritis,"Stomach, antrum",endoscopic biopsy,Chronic gastritis,"Stomach, body",endoscopic biopsy,Chronic gastritis,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,no H. pylori,,,
+"Pituitary gland(frozen #1 and #1), removal;
+  Pituitary adenoma
+
+
+Note) 
+1. The results of immunohistochemical staining;
+       Prolactin: Negative
+       GH: Negative
+       ACTH: Negative
+       TSH: Negative
+       Ki-67 labelling index: <5%
+2. Reticulin stain is done.",Pituitary gland,removal,Pituitary adenoma,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Tissue from shoulder joint, right, revisional bankart repair;
+  1. Osteocartilaginous tissue
+  2. Suture granuloma","Tissue from shoulder joint, right",revisional bankart repair,"Osteocartilaginous tissue
+Suture granuloma",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,1
+"Breast, left(#1 and #2), skin sparing mastectomy;
+  Invasive ductal carcinoma, with mucinous component, tumor, 
+    post-neoadjuvant chemotherapy status
+   1. Location : LIQ
+   2. Size : 1.5x0.7cm  (#2 specimen)
+   3. Extension : 1.5x0.7cm 
+   3. Extent of tumor : 
+        Tumor more than 10mm but not more than 20mm in greatest dimension (ypT1c) 
+   4. Histologic grade; II (Tubule formation: 3, Nuclear grade: 2, Mitoses: 1)
+   5. Extent of DCIS: Present, Low grade 
+        1) Extension : 1.5x1.3cm
+        2) Resection margin: Free from DCIS
+           Distance to closest margin: <0.1cm, deep, superior
+           Safety margin: deep; <0.1cm, superior; 0.4cm
+   6. Calcification; Present in stroma
+   7. Regional lymph node : 
+        Metastasis in 1 out of 6 regional lymph nodes (ypN1a)
+        ; sentinel (frozen #1 adne frozen #2)(0/2),
+          axillary LN (frozen #3 and #3)(1/4)
+        [ Size of metastasis: 1.7cm in the greatest one ]
+        [ Extracapsular extension : Absent ]
+        [ Dominant changes of intervening stroma : Absent ]
+   8. Resection margin: Uncheckable (#2 specimen)
+   9. Lymphatic invasion : Not identified
+  10. Venous invasion : Not identified
+  11. Perineural invasion : Not identified
+
+Breast, nipple margin(frozen #4), biopsy;
+  No tumor present
+
+
+Note) 
+1. CK immunostain does not reveal isolated tumor cells or micrometastasis in sentinel node. 
+2. Result of immunohistochemistry (block 2A);
+      ER: Positive (>95%, Allred 8)        CK5/6: Negative
+      PR: Negative (0%, Allred 0)		  EGFR: Negative
+      c-erbB2(HER2): 0	        
+      p53: <5%
+3. Mapping is done.
+","Breast, left",skin sparing mastectomy, Invasive ductal carcinoma,"Breast, nipple margin",biopsy,No tumor present,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,ypT1c,ypN1a,
+"Cecum, colonoscopic biopsy;
+  Tubular adenoma with low grade dysplasia",Cecum,colonoscopic biopsy,Tubular adenoma with low grade dysplasia,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Thyroid gland, bilateral(frozen #1 and #1), total thyroidectomy;
+  Papillary carcinoma 
+    1) Tumor location: bilateral
+    2) Tumor multiplicity: Present (Number; 4)
+    3) Tumor size: 0.7cm and 0.2cm(right), 0.7cm and 0.3cm(left)
+    4) Extent of primary tumor:
+       ≤1cm, limited to the thyroid (pT1a)
+    5) Tumor capsulation: Not applicable
+    6) Lymphatic invasion: Not identified
+    7) Vascular invasion: Not identified
+    8) Capsular margin: Negative
+    9) Regional lymph node: 
+         Metastasis in 4 out of 4 regional lymph nodes (4/4)(pN1a)
+         ; right paratracheal LN (frozen #1)(3/3)
+           left paratracheal LN (#1)(0/0)
+           delphian LN (#2)(1/1)
+           [ Size of metastasis: 0.3cm in the greatest one ]
+           [ Extracapsular extension : Not identified ]
+    10) Other pathology: Nodular hyperplasia
+    11) Parathyroid gland; Absent
+","Thyroid gland, bilateral",total thyroidectomy,Papillary carcinoma ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,pT1a ,pN1a ,
+"Uterus, total hysterectomy;
+  1. Cervix ; Chronic cervicitis 
+  2. Endometrium ; Basal layer
+  3. Myometrium ; 1) Adenomyosis
+                  2) Leiomyoma, intramural
+
+Salpinx, bilateral, salpingectomy;
+  No pathologic diagnosis",Uterus,total hysterectomy,"Cervix Chronic cervicitis
+Endometrium Basal layer
+Myometrium Adenomyosis Leiomyoma
+
+
+","Salpinx, bilateral",salpingectomy,No pathologic diagnosis,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Rectum, low anterior resection;
+  Adenocarcinoma, moderately differentiated
+  1. Location; Rectum
+  2. Gross type; fungating
+  3. Size; 5x4cm
+  4. Depth of invasion; 
+      Invades muscularis propria(pT2)
+  5. Resection margin; Free from carcinoma
+      Safety margin : proximal; 37.8cm, distal; 0.5cm, radial; 0.7cm
+  6. Regional lymph node; 
+        No metastasis in all 19 regional lymph nodes(pN0)
+        ; perirectal 0/19
+  7. Lymphatic invasion; Not identified
+  8. Venous invasion; Not identified
+  9. Perineural invasion; Not identified
+  10. Separate lesions; Tubular adenoma with low grade dysplasia
+
+Rectum, proximal and distal resection margin(#2 and #3), resection;
+  No tumor present
+
+
+Note) The result of immunohistochemistry (block A2);
+          EGFR: 2+
+          CDX-2: positive
+          p53: 70-80%
+          VE1 (BRAF V600E): negative",Rectum, low anterior resection," Adenocarcinoma, moderately differentiated","Rectum, proximal and distal resection margin",resection,No tumor present,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,pT2,pN0,
+"Soft tissue, knee, left, excisional biopsy;
+  Consistent with juxta-articular myxoma with cystic change","Soft tissue, knee, left",excisional biopsy,juxta-articular myxoma,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Omentum, removal;
+  Fat necrosis",Omentum,removal,Fat necrosis,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Colon, transverse, colonoscopic biopsy;
+  Nonspecific inflammation with lymphoid aggregate","Colon, transverse",colonoscopic biopsy, Nonspecific inflammation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Breast, 10 o'clock, right(#1 and #2), sono-guided core biopsy;
+  Fibroadenoma","Breast, right",sono-guided core biopsy,Fibroadenoma,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Scalp, punch biopsy;
+  Metastatic carcinoma, probably from breast primary 
+
+
+Note) 
+1. GATA3 immunostain: Positive
+2. Previous slide (S17-8947) is reviewed.",Scalp,punch biopsy,Metastatic carcinoma,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Skin, arm, upper, right, punch biopsy;
+  Superficial perivascular lymphocytic infiltration","Skin, arm, upper",punch biopsy, Superficial perivascular lymphocytic infiltration,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Mediastinum, incision and drainage;
+  Acute and chronic inflammation, with
+    1. granuloma formation
+    2. granulation tissue
+    3. necrosis
+
+
+Note)
+1. AFB stain: Negative
+2. Tb-PCR result will follow.",Mediastinum,incision and drainage, Acute and chronic inflammation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Thyroid gland, bilateral(frozen #1 and #1), total thyroidectomy;
+  Papillary carcinoma 
+    1) Tumor location: bilateral
+    2) Tumor multiplicity: Present (Number; 4)
+    3) Tumor size: 0.7cm and 0.2cm(right), 0.7cm and 0.3cm(left)
+    4) Extent of primary tumor:
+       ≤1cm, limited to the thyroid (pT1a)
+    5) Tumor capsulation: Not applicable
+    6) Lymphatic invasion: Not identified
+    7) Vascular invasion: Not identified
+    8) Capsular margin: Negative
+    9) Regional lymph node: 
+         Metastasis in 4 out of 4 regional lymph nodes (4/4)(pN1a)
+         ; right paratracheal LN (frozen #1)(3/3)
+           left paratracheal LN (#1)(0/0)
+           delphian LN (#2)(1/1)
+           [ Size of metastasis: 0.3cm in the greatest one ]
+           [ Extracapsular extension : Not identified ]
+    10) Other pathology: Nodular hyperplasia
+    11) Parathyroid gland; Absent
+","Thyroid gland, bilateral",total thyroidectomy,Papillary carcinoma ,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,pT1a ,pN1a ,
+"Colon, recto-sigmoid junction(#2), colonoscopic biopsy;
+  Adenocarcinoma, moderately differentiated","Colon, recto-sigmoid junction",colonoscopic biopsy,"Adenocarcinoma, moderately differentiated",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Gallbladder, laparoscopic cholecystectomy;
+  Chronic cholecystitis",Gallbladder,laparoscopic cholecystectomy,Chronic cholecystitis,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Bronchus, bronchoscopic biopsy;
+  Chronic inflammation",Bronchus,bronchoscopic biopsy,Chronic inflammation,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Tissue from spine, laminectomy;
+  Ossification of ligamentum flavum",Tissue from spine,laminectomy,Ossification of ligamentum flavum,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Uterus(#1), myomectomy;
+  Leiomyoma
+
+Tissue labeled as ""endometrium""(#2), biopsy;
+  No pathologic diagnosis, fibromuscular tissue only",Uterus,myomectomy,Leiomyoma,"Tissue labeled as ""endometrium""",biopsy,No pathologic diagnosis,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Stomach, low body, anterior wall, endoscopic biopsy;
+  Chronic active gastritis","Stomach, low body",endoscopic biopsy,Chronic active gastritis,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Colon, ascending(#1), colonoscopic biopsy;
+  Chronic active colitis with neutrophilic exudate
+
+Colon, transverse(#2), colonoscopic biopsy;
+  Cytomegalovirus colitis
+
+Colon, sigmoid(#3), colonoscopic biopsy;
+  Chronic active colitis with lymphoid aggregates
+
+
+Note) 
+1. CMV immunostain: Positive (#2)
+                    Negative (#1 and #3)
+   HSV-1 immunostain: Negative (#1 to #3)
+2. The result of Tb-PCR will follow.","Colon, ascending",colonoscopic biopsy,Chronic active colitis,"Colon, transverse",colonoscopic biopsy,Cytomegalovirus colitis,"Colon, sigmoid",colonoscopic biopsy,Chronic active colitis,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Urinary bladder, transurethral resection;
+  Urothelial carcinoma, papillary, low grade,
+  without involvement of subepithelial connective tissue
+
+
+Note) The specimen includes muscle proper.",Urinary bladder,transurethral resection,"Urothelial carcinoma, papillary, low grade",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Stomach(frozen #1), total gastrectomy;
+  1. No residual primary tumor, post-ESD state, with
+     1) Free resection margin
+     2) Metastasis in 4 out of 40 regional lymph nodes (4/40) (pN2)
+        ; GLN (0/18)
+          LLN (4/21)
+          LN 1 (#1)(0/0)
+          LN 12a (#2)(0/1)
+  2. Xanthoma
+
+
+Note) CK immunostains was done to evaluate presence of residual tumor cell.",Stomach,total gastrectomy,"No residual primary tumor
+Xanthoma
+",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,pN2,,1
+"Rectum, colonoscopic biopsy;
+  Adenocarcinoma, moderately differentiated
+
+
+Note) EGFR immunostain: 2+",Rectum,colonoscopic biopsy,"Adenocarcinoma, moderately differentiated",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Skin, eyelid, RUL, excisional biopsy;
+  Compound nevus","Skin, eyelid, RUL",excisional biopsy,Compound nevus,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Ovary, right, cystectomy;
+  Mature cystic teratoma","Ovary, right",cystectomy,Mature cystic teratoma,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Uterus, total hysterectomy;
+  1. Cervix ; Chronic cervicitis 
+  2. Endometrium ; Basal layer
+  3. Myometrium ; 1) Adenomyosis
+                  2) Leiomyoma, intramural
+
+Salpinx, bilateral, salpingectomy;
+  No pathologic diagnosis",Uterus,total hysterectomy,"Cervix Chronic cervicitis
+Endometrium Basal layer
+Myometrium Adenomyosis Leiomyoma
+
+
+","Salpinx, bilateral",salpingectomy,No pathologic diagnosis,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
+"Liver, segment 4, wedge-resection;
+  Metastatic adenocarcinoma, probably from colorectal primary, with
+    1. size: 1.7x1.2cm
+    2. free resection margin (safety margin: 0.8cm)
+
+
+Note) The results of immunohistochemical staining;
+          CK7: Negative
+          CK20: Positive
+          CDX-2: Positive","Liver, segment 4", wedge-resection, Metastatic adenocarcinoma,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,
