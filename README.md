@@ -6,7 +6,7 @@ We refered [BERT] (Devlin, et al.).
 [KEP] is a web-based **keyword** **extraction** **tool** for pathology report.  
 Users who are not familiar with python can use this tool.  
   
-![screensh](./img/website.jpg)
+![screensh](./img/website.png)
 
 
 ## Environments
